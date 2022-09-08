@@ -1,0 +1,13 @@
+﻿Name,Quantity,Component
+"U1, U3",2," Arduino Uno R3"
+"U2",1," LCD 16 x 2 "
+"Rpot1",1,"250 kΩ Potentiometer"
+"R1",1,"220 Ω Resistor"
+"Sunderscore, S2, Sspace, S4",4," Pushbutton"
+"R2, R3, R4, R5",4,"1 kΩ Resistor"
+"D1",1,"Orange LED"
+"D2",1,"Yellow LED"
+"D3",1,"Blue LED"
+"D4",1,"Green LED"
+"D5",1,"White LED"
+"R6",1,"220 Ω Resistor"
